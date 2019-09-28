@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Jobber</string>
+    <string name="ny_jobb">Ny jobb</string>
+    <string name="viewjob_back_button">Tilbake</string>
+    <string name="viewjob_add_photo">Nytt Bilde</string>
+    <string name="viewjob_change">Endre</string>
+</resources>
